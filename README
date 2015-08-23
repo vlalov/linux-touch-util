@@ -1,0 +1,12 @@
+Utilities for touch devices
+===========================
+
+# calibrate-touch
+-----------------
+
+Useful for multiple screens when only one of them has touch digitizer on it. This is usually the case with touch-enabled laptops when you attach additional monitors.
+It will update the coordination system based on your current setup.
+
+# rotate-screen
+
+Script for rotating devices like the Lenovo Yoga. It will rotate your screen 180 degree and will update the touch calibration.
